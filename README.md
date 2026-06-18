@@ -319,11 +319,4 @@ Separación de responsabilidades, preparación de datos fuera de la UI, internac
 
 ---
 
-## Propuesta de GitHub Issue
 
-### Título del Issue
-```text
-Análisis de errores arquitectónicos y buenas prácticas Android
-```
-
-```
