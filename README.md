@@ -326,9 +326,4 @@ Separación de responsabilidades, preparación de datos fuera de la UI, internac
 Análisis de errores arquitectónicos y buenas prácticas Android
 ```
 
-### Descripción del Issue
-```text
-Se detectaron 10 errores en el código relacionados con arquitectura MVVM, Jetpack Compose, Material Design 3, manejo de estado, separación de responsabilidades y testabilidad.
-
-El detalle completo de cada error, junto con la línea aproximada y la propuesta de solución, fue documentado en el archivo README.md.
 ```
